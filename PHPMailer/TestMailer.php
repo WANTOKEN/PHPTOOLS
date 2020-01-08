@@ -8,9 +8,9 @@ use PHPMailer\PHPMailer\Exception;
 
 class TestMailer
 {
-    private $userEmail = 'user@163.com'; //发送者邮箱
-    private $userName = 'user';          //发送者邮箱名
-    private $userPass = 'pass';          //发送者邮箱密令
+    private $userEmail = 'ztkvip@163.com'; //发送者邮箱
+    private $userName = 'ztkvip';          //发送者邮箱名
+    private $userPass = 'asd123';          //发送者邮箱密令
     private $smtpHost = 'smtp.163.com';    //服务主机
     private $smtpHostPort = 465;           //端口
     private $mail = null;
@@ -61,7 +61,8 @@ class TestMailer
 }
 $mail = new TestMailer();
 $address=[
-    ['email'=>'example@qq.com','name'=>'ZTK'],
+    ['email'=>'1136717125@qq.com','name'=>'ZTK'], //发送到用户
+    ['email'=>'xxxx@qq.com','name'=>'ZTK']
 ];
 $subject = '这里是邮件标题' . time();
 $body = '<h1>这里是邮件内容</h1>' . date('Y-m-d H:i:s');
