@@ -60,6 +60,9 @@ class RedisTest
         }
         return $arr1;
     }
+
+
+
 }
 
 $redisTest = new RedisTest();
@@ -68,6 +71,7 @@ $redisTest = new RedisTest();
 //print_r($redisTest->showKeys());
 //$events=['ImageEditorStickerUse'];
 //$redisTest->createTestCache($events);
-print_r($redisTest->showKeys());
-$events=['ImageEditorBgUse'];
-print_r($redisTest->getCommonCacheByEvents($events));
+//print_r($redisTest->showKeys());
+//$events=['ImageEditorBgUse'];
+//print_r($redisTest->getCommonCacheByEvents($events));
+
