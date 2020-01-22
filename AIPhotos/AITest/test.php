@@ -8,7 +8,7 @@ const SECRET_KEY = 'EGrouYO8fMi0HzTDiKs8S47smgRSVEyV';//你的 Secret Key
 
 $client = new AipBodyAnalysis(APP_ID, API_KEY, SECRET_KEY);
 
-$img = 'test2.jpg';
+$img = 'test3.jpg';
 $image = file_get_contents($img);
 
 // 调用人像分割
@@ -20,7 +20,7 @@ $options = array();
 $options["type"] = "foreground";
 
 // 带参数调用人像分割
-for($i=0;$i<1000;$i++){
+for($i=0;$i<10;$i++){
     $RET = $client->bodySeg($image, $options);
     $imgBase64 = $RET['foreground'];
     $imgDecode = base64_decode($imgBase64);
