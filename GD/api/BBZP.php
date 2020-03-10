@@ -1,6 +1,6 @@
 <?php
 
-$url = 'http://v4.dwstatic.com/biu/201807/05/0a4400e748ed3d5b3547b224b3240000.png?w=870&h=1000';
+$url = '';
 //try{
 //
 //}catch (){
