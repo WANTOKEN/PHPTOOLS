@@ -226,19 +226,43 @@ $excel = new TestPHPExcel();
 $fileName = '测试excel';
 //导出到本地
 //浏览器访问：http://www.ztk.com/PHPTOOLS/PHPExcel/TestPHPExcel.php
-/*
-$headerArr = ['title1' => '标题1', 'title2' => '标题2'];
-$dataArr = [
-    ['title1' => '张三', 'title2' => '李四'],
-    ['title1' => '张三1', 'title2' => '李四1'],
-    ['title1' => '张三2', 'title2' => '李四2'],
-    ['title1' => '张三3', 'title2' => '李四3']
-];
-$excel->export($fileName, $headerArr, $dataArr);
-*/
+
+//$headerArr = ['title1' => '标题1', 'title2' => '标题2'];
+//$dataArr = [
+//    ['title1' => '张三', 'title2' => '李四'],
+//    ['title1' => '张三1', 'title2' => '李四1'],
+//    ['title1' => '张三2', 'title2' => '李四2'],
+//    ['title1' => '张三3', 'title2' => '李四3']
+//];
+//$excel->export($fileName, $headerArr, $dataArr);
+//大数据
+$column_name = ["title1"=>"title1", "title2"=>"title2",
+    "title3"=>"title3", "title4"=>"title4", "title5"=>"title5",
+    "title6"=>"title6", "title7"=>"title7", "title8"=>"title8",
+    "title9"=>"title9", "title10"=>"title10"];
+// 将中文标题转换编码，否则乱码
+
+//foreach ($column_name as $i => $v) {
+//    $column_name[$i] = iconv('utf-8', 'GBK', $v);
+//}
+$export_data = [];
+//for ($i = 0; $i < 10; $i++) {
+    foreach (range(1, 10000) as $k => $v) {
+        $export_data[] = [
+           "title1"=> "XXX" . $v, "title2"=>"XXX" . $v,"title3"=> "XXX" . $v,
+            "title4"=>"XXX" . $v, "title5"=>"XXX" . $v, "title6"=>"XXX" . $v,
+            "title7"=>"XXX" . $v, "title8"=>"XXX" . $v, "title9"=>"XXX" . $v,
+            "title10"=>"XXX" . $v
+        ];
+        $excel->export($fileName, $column_name, $export_data);
+    }
+//}
+
+
+
 //导入Excel数据
 //本地执行：/浏览器访问：http://www.ztk.com/PHPTOOLS/PHPExcel/TestPHPExcel.php
-$localSavePath = dirname(__FILE__) . DIRECTORY_SEPARATOR . '\\' . $fileName.'.xls';
-$format = ['标题1'=>'a','标题2'=>'b'];
-$data = $excel->import($format, $localSavePath);
-var_dump($data);
+//$localSavePath = dirname(__FILE__) . DIRECTORY_SEPARATOR . '\\' . $fileName.'.xls';
+//$format = ['标题1'=>'a','标题2'=>'b'];
+//$data = $excel->import($format, $localSavePath);
+//var_dump($data);

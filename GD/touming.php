@@ -10,7 +10,7 @@ imagealphablending($png, false);
 imagesavealpha($png, true);
 
 // 输出图像到浏览器
-header('Content-Type: image/png');
+header('Content-Type: image/jpeg');
 
-imagepng($png,'a.png');
+imagejpeg($png,'aaa.jpg');
 imagedestroy($png);
