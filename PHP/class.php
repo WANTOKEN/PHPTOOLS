@@ -44,3 +44,4 @@ for ($i = 0; $i < count($a) ; $i++) {
 }
 var_dump($a);
 
+echo bcmul(11, 100);
