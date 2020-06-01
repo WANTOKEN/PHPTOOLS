@@ -33,7 +33,7 @@ for($i=1;$i<=12;$i++){
         }
     }
 }
-var_dump($date);
+//var_dump($date);
 function getYearZodiac($data)
 { //获取生肖
     return $data[6];

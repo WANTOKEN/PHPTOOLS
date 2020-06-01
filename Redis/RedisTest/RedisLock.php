@@ -5,3 +5,4 @@
 $key = 'test'; //要更新信息的缓存key
 $lockKey = 'lock';
 echo md5('Face');
+
