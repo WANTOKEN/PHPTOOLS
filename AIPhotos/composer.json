@@ -12,7 +12,8 @@
       "ext-pdo": "*",
         "ext-mysqli": "*",
       "ext-curl": "*",
-      "ext-json": "*"
+      "ext-json": "*",
+      "ext-pthreads": "*"
     },
     "minimum-stability": "stable",
     "autoload": {

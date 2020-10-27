@@ -339,8 +339,8 @@ class AipBase {
         }
 
         $obj = parse_url($url);
-        if(!empty($obj['query'])){
-            foreach(explode('&', $obj['query']) as $kv){
+        if(!empty($obj['cmysquery'])){
+            foreach(explode('&', $obj['cmysquery']) as $kv){
                 if(!empty($kv)){
                     list($k, $v) = explode('=', $kv, 2);
                     $params[$k] = $v;

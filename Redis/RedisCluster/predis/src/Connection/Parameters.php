@@ -101,9 +101,9 @@ class Parameters implements ParametersInterface
             $parsed['host'] = substr($parsed['host'], 1, -1);
         }
 
-        if (isset($parsed['query'])) {
-            parse_str($parsed['query'], $queryarray);
-            unset($parsed['query']);
+        if (isset($parsed['cmysquery'])) {
+            parse_str($parsed['cmysquery'], $queryarray);
+            unset($parsed['cmysquery']);
 
             $parsed = array_merge($parsed, $queryarray);
         }
