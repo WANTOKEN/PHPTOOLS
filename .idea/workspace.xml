@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d267cc3-66c9-44c6-bb0b-d4a5798d3612" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileRead/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileRead/name.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileRead/namesql.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileRead/readLogs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/cmysquery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/conf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/export.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/export2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/export3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/export4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/exportUser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/import.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/import5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/import6Insert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/importExcelEp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/importExcelEp2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/importExcelEp3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/importExcelEp4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/jsylquery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/tpjoin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySql/updateStatus.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/base64.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPExcel/PHPExcelTools.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/NginxSession.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/RedisTest/RedisTestConnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEO/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/Request.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIPhotos/AITest/lib/AipBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/AIPhotos/AITest/lib/AipBase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIPhotos/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/AIPhotos/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIPhotos/lib/AipBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/AIPhotos/lib/AipBase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DateTools/dateTime.php" beforeDir="false" afterPath="$PROJECT_DIR$/DateTools/dateTime.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySql/query.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPExcel/TestExcelToolsController.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel/TestExcelToolsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPExcel/测试excel.xls" beforeDir="false" afterPath="$PROJECT_DIR$/PHPExcel/测试excel.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redis/RedisCluster/predis/src/Connection/Parameters.php" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/RedisCluster/predis/src/Connection/Parameters.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySql/export4.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySql/export4.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,19 +18,65 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/usr/local/nginx/conf/conf.d/images.conf">
+        <entry file="remoteDeploymentFS://&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/index3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="-9252">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/usr/local/nginx/conf/nginx.conf">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Imagick/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1222">
-              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            <state relative-caret-position="-156" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/base64.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DirRead/makedir.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DirRead/testDir/dirA/a.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DirRead/scandir.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileRead/readTxt.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-546" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/lengthOfLongestSubstring.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -75,61 +84,8 @@
       <file pinned="true" current-in-tab="false">
         <entry file="remoteDeploymentFS://&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/usr/local/nginx/conf/conf.d/java.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-702" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MySql/importExcelEp4.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5043">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MySql/tpjoin.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MySql/Model.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/usr/local/nginx/conf/conf.d/php.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MySql/importExcelEp3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/usr/local/nginx/conf/conf.d/go.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="234">
+              <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -158,9 +114,13 @@
       <find>SQLSTATE[HY000]</find>
       <find>'0000-00-00 00:00:00'</find>
       <find>SERVER_URL</find>
+      <find>addappindex</find>
+      <find>47.106.253.201</find>
+      <find>adminCommand</find>
     </findStrings>
     <replaceStrings>
       <replace>CURRENT_TIMESTAMP</replace>
+      <replace>175.24.28.241</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -169,17 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/php/index/index.html" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/weixin.html" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/index2.html" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/index3.html" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/php/webAdmin/Application/Home/Controller/IndexController.class.php" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/gopub/conf/app.conf" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/gopub/install.sql" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/gopub/docker/app.conf" />
-        <option value="$PROJECT_DIR$/LeetCode/test.php" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/gopub/views/main/login.html" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/php/webAdmin/Public/js/config.js" />
         <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/php/webAdmin/Application/Home/View/Index/Abox_manager.html" />
         <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/gopub/app/controllers/main.go" />
         <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/gopub/views/main/index.html" />
@@ -197,13 +146,10 @@
         <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/load.html" />
         <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/usr/local/nginx/conf/conf.d/images.conf" />
         <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/usr/local/nginx/conf/nginx.conf" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/usr/local/nginx/conf/conf.d/go.conf" />
-        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/index.html" />
         <option value="$PROJECT_DIR$/MySql/conf.php" />
         <option value="$PROJECT_DIR$/MySql/export.php" />
         <option value="$PROJECT_DIR$/MySql/export2.php" />
         <option value="$PROJECT_DIR$/MySql/export3.php" />
-        <option value="$PROJECT_DIR$/MySql/export4.php" />
         <option value="$PROJECT_DIR$/MySql/export5.php" />
         <option value="$PROJECT_DIR$/MySql/export6.php" />
         <option value="$PROJECT_DIR$/MySql/export7.php" />
@@ -220,12 +166,26 @@
         <option value="$PROJECT_DIR$/MySql/importExcelEp2.php" />
         <option value="$PROJECT_DIR$/MySql/importExcelEp3.php" />
         <option value="$PROJECT_DIR$/MySql/importExcelEp4.php" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/rpc/server.go" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/rpc/ginRpcClient.go" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/usr/local/nginx/conf/conf.d/go.conf" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/rpc/go.mod" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/go/dev.txt" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/php/webApp/Web/Home/Controller/AIndexController.class.php" />
+        <option value="$PROJECT_DIR$/MySql/export4.php" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/php/webApp/Web/Home/Controller/MessageController.class.php" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/php/swooledemo/wsTotcp.php" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/php/swooledemo/boxServer.php" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/index3.html" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/index.html" />
+        <option value="&lt;43875233-62dd-40ac-b93b-ec4ff16f96e9&gt;/mnt/index/video.html" />
+        <option value="$PROJECT_DIR$/PHP/extends.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="908" />
-    <option name="y" value="30" />
+    <option name="x" value="778" />
+    <option name="y" value="6" />
     <option name="width" value="1888" />
     <option name="height" value="898" />
   </component>
@@ -245,33 +205,25 @@
             <path>
               <item name="PHPTOOLS" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHPTOOLS" type="462c0819:PsiDirectoryNode" />
-              <item name="AIPhotos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PHPTOOLS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHPTOOLS" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayTools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PHPTOOLS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHPTOOLS" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayTools" type="462c0819:PsiDirectoryNode" />
-              <item name="SPL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PHPTOOLS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHPTOOLS" type="462c0819:PsiDirectoryNode" />
-              <item name="ChinesePinyin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PHPTOOLS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHPTOOLS" type="462c0819:PsiDirectoryNode" />
               <item name="DateTools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PHPTOOLS" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHPTOOLS" type="462c0819:PsiDirectoryNode" />
               <item name="DirRead" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PHPTOOLS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPTOOLS" type="462c0819:PsiDirectoryNode" />
+              <item name="DirRead" type="462c0819:PsiDirectoryNode" />
+              <item name="testDir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PHPTOOLS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHPTOOLS" type="462c0819:PsiDirectoryNode" />
+              <item name="DirRead" type="462c0819:PsiDirectoryNode" />
+              <item name="testDir" type="462c0819:PsiDirectoryNode" />
+              <item name="dirA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PHPTOOLS" type="b2602c69:ProjectViewProjectNode" />
@@ -475,17 +427,19 @@
       <workItem from="1600829797915" duration="31962000" />
       <workItem from="1602208325540" duration="31305000" />
       <workItem from="1602743949255" duration="21844000" />
-      <workItem from="1603423616856" duration="3926000" />
+      <workItem from="1603423616856" duration="11897000" />
+      <workItem from="1603938245051" duration="12606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="354456000" />
+    <option name="totallyTimeSpent" value="375033000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="601" y="25" width="1888" height="898" extended-state="0" />
+    <frame x="822" y="8" width="1888" height="898" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17341356" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1750547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -498,14 +452,14 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20026179" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.20026179" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.19764398" />
+      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.2225131" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.19037199" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.14824945" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28457597" />
@@ -533,39 +487,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FileRead/downloadFile.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayTools/num.php" />
-    <entry file="file://$PROJECT_DIR$/Imagick/final.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Imagick/a.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/lengthOfLongestSubstring.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHPExcel/PHPExcelTools.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="222" column="111" selection-start-line="222" selection-start-column="111" selection-end-line="222" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VideoLive/js/ge1doot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/VideoLive/js/imageTransform3D.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3248">
@@ -694,62 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP/base64.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/conf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/export.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/export2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/export3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/export4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/export5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/export6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1117">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MySql/export7.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1221">
@@ -778,13 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/exportUser.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -858,7 +716,115 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MySql/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2886">
+          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/export3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/export2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3354">
+          <caret line="129" column="26" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/export4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/export5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-872">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/export6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-548">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-548">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/exportUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/extends.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-841">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/base64.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DirRead/makedir.php">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DirRead/testDir/dirA/a.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DirRead/scandir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileRead/readTxt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/lengthOfLongestSubstring.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Imagick/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156" />
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
