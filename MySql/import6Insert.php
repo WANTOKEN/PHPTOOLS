@@ -1,4 +1,5 @@
 <?php
+//每周更新SPA人员信息表
 set_time_limit(0);
 ini_set('memory_limit','3096M');
 //http://www.ztk.com/MySql/import6Insert.php
@@ -31,7 +32,7 @@ foreach ($result5 as $v){
 
 $excel = new PHPExcelTools();
 
-$localSavePath = 'G:\SPA人员信息1014.xlsx';
+$localSavePath = 'G:\SPA人员信息.xlsx';
 $format = array('员工编号'=>'user_login','姓名'=>'name','中文职位'=>'role','店号'=>'store_id',);
 $data = $excel->import($format, $localSavePath);
 
